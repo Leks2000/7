@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ПР7_Николаев.Shooting">
+    <Position X="1.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAUAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Shooting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ПР7_Николаев.Armament">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAACAAAAAAAAgAAAQAAEAAAAgABAAAAAAAA=</HashCode>
+      <FileName>Armament.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ПР7_Николаев.Tank">
+    <Position X="3.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAQAAAAEEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ПР7_Николаев.Airplane">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAEAwAAAAAAAAAAAAA=</HashCode>
+      <FileName>Airplane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

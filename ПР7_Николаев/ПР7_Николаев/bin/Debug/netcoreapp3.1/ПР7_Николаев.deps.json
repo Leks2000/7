@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ПР7_Николаев/1.0.0": {
+        "runtime": {
+          "ПР7_Николаев.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ПР7_Николаев/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
